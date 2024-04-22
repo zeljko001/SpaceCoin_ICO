@@ -43,8 +43,7 @@ Welcome to the SpaceCoin ICO project! In this project, we have created an ERC-20
 
 The contracts have been deployed to the Sepolia testnet and verified on Etherscan.
 
-1. **SpaceCoin Contract**: [Etherscan link](https://sepolia.etherscan.io/address/0xSPACECOIN)
-2. **ICO Contract**: [Etherscan link](https://sepolia.etherscan.io/address/0xSPACEICO)
+1. **SpaceCoin_ICO Contracts**: [Deployed contracts](https://sepolia.etherscan.io/address/0x83feE2e79988E4280BcaDAfdb2e9aC620C494d8d#code)
 
 
 ## Code Coverage Report
